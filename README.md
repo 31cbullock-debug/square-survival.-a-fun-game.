@@ -1,1 +1,1 @@
-This was fun. I wanted a simple game that I could easily play at school. It has different game modes so you don't get bored, and I made sure that it had as many cool affects, glow, neon colors, and enemy types. Hope you enjoy!
+This was fun. I wanted a simple game that I could easily play at school. It has different game modes so you don't get bored, and I made sure that it had as many cool affects, glow, neon colors, and enemy types. Hope you enjoy! (download the game by clicking index.html, click code, and click download zip, extract that, then play!)
